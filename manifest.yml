@@ -1,0 +1,4 @@
+applications:
+- name: echo-server
+  buildpack: java_buildpack
+  path: target/echo-0.0.1-SNAPSHOT.jar
